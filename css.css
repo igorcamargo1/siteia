@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.size {
+    margin-left: 10%;
+}
+
+.backnav {
+    background: linear-gradient(to top left, #000000 0%, #07064b 100%);
+}
+
+.navcolor{
+    margin-left: 50%;
+    font-size: 25;
+}
+
+.fontcolor {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+ 
+.title{
+   color: #07064b; 
+   margin-top: 20%;
+   font-size: 30px;
+
+}
+
+.text{
+    color: #07064b;
+    font-size: 20px;
+}
+
+.stylecard {
+    width: 100%;
+    max-width: 250px;
+    margin-left: 30px;
+    display: inline-block;
+    background: linear-gradient(to top left, #000000 0%, #07064b 100%);
+    color: aliceblue;
+}
+
+.last{
+    background: linear-gradient(to top left, #000000 0%, #07064b 100%);
+}
+
+.img4 {
+    width: 100%;
+    max-width: 3000px;
+    
+}
+
+.config{
+    margin-top: -150px;
+    text-align: left;
+}
+
+.left{
+    text-align: center;
+}
